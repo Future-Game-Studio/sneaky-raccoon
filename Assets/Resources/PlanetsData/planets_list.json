@@ -1,0 +1,608 @@
+{
+    "locations": [
+      {
+        "id": 0,
+        "name": "Earth",
+        "trashProbability": [ 10, 10, 9, 8, 8, 7, 7, 7, 7, 7, 6, 2.8, 2.8, 2.8, 2.8, 2.8 ],
+        "trashItems": [
+          {
+            "id": 0,
+            "type": "easy",
+            "sprite": "Trash/Earth_trash/type_00",
+            "score": 1,
+            "speed": 2,
+            "damageToPlanet": 1,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 1,
+            "type": "easy",
+            "sprite": "Trash/Earth_trash/type_12",
+            "score": 1,
+            "speed": 2,
+            "damageToPlanet": 1,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 2,
+            "type": "easy",
+            "sprite": "Trash/Earth_trash/type_01",
+            "score": 1,
+            "speed": 2,
+            "damageToPlanet": 1,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 3,
+            "type": "normal",
+            "sprite": "Trash/Earth_trash/type_10",
+            "score": 1,
+            "speed": 3,
+            "damageToPlanet": 2,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 4,
+            "type": "normal",
+            "sprite": "Trash/Earth_trash/type_11",
+            "score": 1,
+            "speed": 3,
+            "damageToPlanet": 2,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 5,
+            "type": "normal",
+            "sprite": "Trash/Earth_trash/type_02",
+            "score": 1,
+            "speed": 3,
+            "damageToPlanet": 2,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 6,
+            "type": "normal",
+            "sprite": "Trash/Earth_trash/type_03",
+            "score": 1,
+            "speed": 3,
+            "damageToPlanet": 2,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 7,
+            "type": "hard",
+            "sprite": "Trash/Earth_trash/type_14",
+            "score": 2,
+            "speed": 4,
+            "damageToPlanet": 3,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 8,
+            "type": "hard",
+            "sprite": "Trash/Earth_trash/type_09",
+            "score": 2,
+            "speed": 4,
+            "damageToPlanet": 3,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 9,
+            "type": "hard",
+            "sprite": "Trash/Earth_trash/type_07",
+            "score": 2,
+            "speed": 4,
+            "damageToPlanet": 3,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 10,
+            "type": "ultraHard",
+            "sprite": "Trash/Earth_trash/type_13",
+            "score": 3,
+            "speed": 6,
+            "damageToPlanet": 5,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 11,
+            "type": "ultraHard",
+            "sprite": "Trash/Earth_trash/type_15",
+            "score": 3,
+            "speed": 6,
+            "damageToPlanet": 5,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 12,
+            "type": "ultraHard",
+            "sprite": "Trash/Earth_trash/type_06",
+            "score": 3,
+            "speed": 6,
+            "damageToPlanet": 5,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 13,
+            "type": "danger",
+            "sprite": "Trash/Earth_trash/type_04",
+            "score": 0,
+            "speed": 2,
+            "damageToPlanet": 0,
+            "damageToPlayer": 1
+          },
+          {
+            "id": 14,
+            "type": "danger",
+            "sprite": "Trash/Earth_trash/type_05",
+            "score": 0,
+            "speed": 2,
+            "damageToPlanet": 0,
+            "damageToPlayer": 1
+          },
+          {
+            "id": 15,
+            "type": "danger",
+            "sprite": "Trash/Earth_trash/type_08",
+            "score": 0,
+            "speed": 3,
+            "damageToPlanet": 0,
+            "damageToPlayer": 1
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Mars",
+        "trashProbability": [ 10, 10, 9, 8, 8, 7, 7, 7, 7, 7, 6, 2.8, 2.8, 2.8, 2.8, 2.8 ],
+        "trashItems": [
+          {
+            "id": 0,
+            "type": "easy",
+            "sprite": "Trash/Earth_trash/type_00",
+            "score": 1,
+            "speed": 2,
+            "damageToPlanet": 1,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 1,
+            "type": "easy",
+            "sprite": "Trash/Earth_trash/type_12",
+            "score": 1,
+            "speed": 2,
+            "damageToPlanet": 1,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 2,
+            "type": "easy",
+            "sprite": "Trash/Earth_trash/type_01",
+            "score": 1,
+            "speed": 2,
+            "damageToPlanet": 1,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 3,
+            "type": "normal",
+            "sprite": "Trash/Earth_trash/type_10",
+            "score": 1,
+            "speed": 3,
+            "damageToPlanet": 2,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 4,
+            "type": "normal",
+            "sprite": "Trash/Earth_trash/type_11",
+            "score": 1,
+            "speed": 3,
+            "damageToPlanet": 2,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 5,
+            "type": "normal",
+            "sprite": "Trash/Earth_trash/type_02",
+            "score": 1,
+            "speed": 3,
+            "damageToPlanet": 2,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 6,
+            "type": "normal",
+            "sprite": "Trash/Earth_trash/type_03",
+            "score": 1,
+            "speed": 3,
+            "damageToPlanet": 2,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 7,
+            "type": "hard",
+            "sprite": "Trash/Earth_trash/type_14",
+            "score": 2,
+            "speed": 4,
+            "damageToPlanet": 3,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 8,
+            "type": "hard",
+            "sprite": "Trash/Earth_trash/type_09",
+            "score": 2,
+            "speed": 4,
+            "damageToPlanet": 3,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 9,
+            "type": "hard",
+            "sprite": "Trash/Earth_trash/type_07",
+            "score": 2,
+            "speed": 4,
+            "damageToPlanet": 3,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 10,
+            "type": "ultraHard",
+            "sprite": "Trash/Earth_trash/type_13",
+            "score": 3,
+            "speed": 6,
+            "damageToPlanet": 5,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 11,
+            "type": "ultraHard",
+            "sprite": "Trash/Earth_trash/type_15",
+            "score": 3,
+            "speed": 6,
+            "damageToPlanet": 5,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 12,
+            "type": "ultraHard",
+            "sprite": "Trash/Earth_trash/type_06",
+            "score": 3,
+            "speed": 6,
+            "damageToPlanet": 5,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 13,
+            "type": "danger",
+            "sprite": "Trash/Earth_trash/type_04",
+            "score": 0,
+            "speed": 2,
+            "damageToPlanet": 0,
+            "damageToPlayer": 1
+          },
+          {
+            "id": 14,
+            "type": "danger",
+            "sprite": "Trash/Earth_trash/type_05",
+            "score": 0,
+            "speed": 2,
+            "damageToPlanet": 0,
+            "damageToPlayer": 1
+          },
+          {
+            "id": 15,
+            "type": "danger",
+            "sprite": "Trash/Earth_trash/type_08",
+            "score": 0,
+            "speed": 3,
+            "damageToPlanet": 0,
+            "damageToPlayer": 1
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "DeathStar",
+        "trashProbability": [ 10, 10, 9, 8, 8, 7, 7, 7, 7, 7, 6, 2.8, 2.8, 2.8, 2.8, 2.8 ],
+        "trashItems": [
+          {
+            "id": 0,
+            "type": "easy",
+            "sprite": "Trash/Earth_trash/type_00",
+            "score": 1,
+            "speed": 2,
+            "damageToPlanet": 1,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 1,
+            "type": "easy",
+            "sprite": "Trash/Earth_trash/type_12",
+            "score": 1,
+            "speed": 2,
+            "damageToPlanet": 1,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 2,
+            "type": "easy",
+            "sprite": "Trash/Earth_trash/type_01",
+            "score": 1,
+            "speed": 2,
+            "damageToPlanet": 1,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 3,
+            "type": "normal",
+            "sprite": "Trash/Earth_trash/type_10",
+            "score": 1,
+            "speed": 3,
+            "damageToPlanet": 2,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 4,
+            "type": "normal",
+            "sprite": "Trash/Earth_trash/type_11",
+            "score": 1,
+            "speed": 3,
+            "damageToPlanet": 2,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 5,
+            "type": "normal",
+            "sprite": "Trash/Earth_trash/type_02",
+            "score": 1,
+            "speed": 3,
+            "damageToPlanet": 2,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 6,
+            "type": "normal",
+            "sprite": "Trash/Earth_trash/type_03",
+            "score": 1,
+            "speed": 3,
+            "damageToPlanet": 2,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 7,
+            "type": "hard",
+            "sprite": "Trash/Earth_trash/type_14",
+            "score": 2,
+            "speed": 4,
+            "damageToPlanet": 3,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 8,
+            "type": "hard",
+            "sprite": "Trash/Earth_trash/type_09",
+            "score": 2,
+            "speed": 4,
+            "damageToPlanet": 3,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 9,
+            "type": "hard",
+            "sprite": "Trash/Earth_trash/type_07",
+            "score": 2,
+            "speed": 4,
+            "damageToPlanet": 3,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 10,
+            "type": "ultraHard",
+            "sprite": "Trash/Earth_trash/type_13",
+            "score": 3,
+            "speed": 6,
+            "damageToPlanet": 5,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 11,
+            "type": "ultraHard",
+            "sprite": "Trash/Earth_trash/type_15",
+            "score": 3,
+            "speed": 6,
+            "damageToPlanet": 5,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 12,
+            "type": "ultraHard",
+            "sprite": "Trash/Earth_trash/type_06",
+            "score": 3,
+            "speed": 6,
+            "damageToPlanet": 5,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 13,
+            "type": "danger",
+            "sprite": "Trash/Earth_trash/type_04",
+            "score": 0,
+            "speed": 2,
+            "damageToPlanet": 0,
+            "damageToPlayer": 1
+          },
+          {
+            "id": 14,
+            "type": "danger",
+            "sprite": "Trash/Earth_trash/type_05",
+            "score": 0,
+            "speed": 2,
+            "damageToPlanet": 0,
+            "damageToPlayer": 1
+          },
+          {
+            "id": 15,
+            "type": "danger",
+            "sprite": "Trash/Earth_trash/type_08",
+            "score": 0,
+            "speed": 3,
+            "damageToPlanet": 0,
+            "damageToPlayer": 1
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "AlphaCentauri",
+        "trashProbability": [ 10, 10, 9, 8, 8, 7, 7, 7, 7, 7, 6, 2.8, 2.8, 2.8, 2.8, 2.8 ],
+        "trashItems": [
+          {
+            "id": 0,
+            "type": "easy",
+            "sprite": "Trash/Earth_trash/type_00",
+            "score": 1,
+            "speed": 2,
+            "damageToPlanet": 1,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 1,
+            "type": "easy",
+            "sprite": "Trash/Earth_trash/type_12",
+            "score": 1,
+            "speed": 2,
+            "damageToPlanet": 1,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 2,
+            "type": "easy",
+            "sprite": "Trash/Earth_trash/type_01",
+            "score": 1,
+            "speed": 2,
+            "damageToPlanet": 1,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 3,
+            "type": "normal",
+            "sprite": "Trash/Earth_trash/type_10",
+            "score": 1,
+            "speed": 3,
+            "damageToPlanet": 2,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 4,
+            "type": "normal",
+            "sprite": "Trash/Earth_trash/type_11",
+            "score": 1,
+            "speed": 3,
+            "damageToPlanet": 2,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 5,
+            "type": "normal",
+            "sprite": "Trash/Earth_trash/type_02",
+            "score": 1,
+            "speed": 3,
+            "damageToPlanet": 2,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 6,
+            "type": "normal",
+            "sprite": "Trash/Earth_trash/type_03",
+            "score": 1,
+            "speed": 3,
+            "damageToPlanet": 2,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 7,
+            "type": "hard",
+            "sprite": "Trash/Earth_trash/type_14",
+            "score": 2,
+            "speed": 4,
+            "damageToPlanet": 3,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 8,
+            "type": "hard",
+            "sprite": "Trash/Earth_trash/type_09",
+            "score": 2,
+            "speed": 4,
+            "damageToPlanet": 3,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 9,
+            "type": "hard",
+            "sprite": "Trash/Earth_trash/type_07",
+            "score": 2,
+            "speed": 4,
+            "damageToPlanet": 3,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 10,
+            "type": "ultraHard",
+            "sprite": "Trash/Earth_trash/type_13",
+            "score": 3,
+            "speed": 6,
+            "damageToPlanet": 5,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 11,
+            "type": "ultraHard",
+            "sprite": "Trash/Earth_trash/type_15",
+            "score": 3,
+            "speed": 6,
+            "damageToPlanet": 5,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 12,
+            "type": "ultraHard",
+            "sprite": "Trash/Earth_trash/type_06",
+            "score": 3,
+            "speed": 6,
+            "damageToPlanet": 5,
+            "damageToPlayer": 0
+          },
+          {
+            "id": 13,
+            "type": "danger",
+            "sprite": "Trash/Earth_trash/type_04",
+            "score": 0,
+            "speed": 2,
+            "damageToPlanet": 0,
+            "damageToPlayer": 1
+          },
+          {
+            "id": 14,
+            "type": "danger",
+            "sprite": "Trash/Earth_trash/type_05",
+            "score": 0,
+            "speed": 2,
+            "damageToPlanet": 0,
+            "damageToPlayer": 1
+          },
+          {
+            "id": 15,
+            "type": "danger",
+            "sprite": "Trash/Earth_trash/type_08",
+            "score": 0,
+            "speed": 3,
+            "damageToPlanet": 0,
+            "damageToPlayer": 1
+          }
+        ]
+      }
+    ]
+}

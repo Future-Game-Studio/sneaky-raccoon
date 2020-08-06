@@ -1,0 +1,16 @@
+{
+    "ownedItems": [
+        {
+            "id": 1,
+            "active": 1,
+            "set": "default",
+            "animator": "car"
+        },
+        {
+            "id": 6,
+            "active": 1,
+            "set": "default",
+            "animator": "skin"
+        }
+    ]
+}

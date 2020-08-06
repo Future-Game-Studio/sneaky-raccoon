@@ -1,0 +1,84 @@
+{
+    "shopItems": [
+        {
+            "id": 1,
+            "sprite": "GUI/bodov_icon_car01",
+            "animator": "car",
+            "set": "default",
+            "trigger": "skin_01",
+            "price": 50
+        },
+        {
+            "id": 2,
+            "sprite": "GUI/instance120",
+            "animator": "car",
+            "set": "vader",
+            "trigger": "skin_02",
+            "price": 600
+        },
+        {
+            "id": 3,
+            "sprite": "GUI/bodov_icon_car05",
+            "animator": "car",
+            "set": "tank",
+            "trigger": "skin_03",
+            "price": 700
+        },
+        {
+            "id": 4,
+            "sprite": "GUI/bodov_icon_car04",
+            "animator": "car",
+            "set": "pikachu",
+            "trigger": "skin_04",
+            "price": 800
+        },
+        {
+            "id": 5,
+            "sprite": "GUI/bodov_icon_car03",
+            "animator": "car",
+            "set": "barbie",
+            "trigger": "skin_05",
+            "price": 900
+        },
+        {
+            "id": 6,
+            "sprite": "GUI/bodov_icon_skin01",
+            "animator": "skin",
+            "set": "default",
+            "trigger": "skin_01",
+            "price": 50
+        },
+        {
+            "id": 7,
+            "sprite": "GUI/bodov_icon_skin02",
+            "animator": "skin",
+            "set": "vader",
+            "trigger": "skin_02",
+            "price": 100
+        },
+        {
+            "id": 8,
+            "sprite": "GUI/bodov_icon_skin03",
+            "animator": "skin",
+            "set": "tank",
+            "trigger": "skin_03",
+            "price": 200
+        },
+        {
+            "id": 9,
+            "sprite": "GUI/bodov_icon_skin04",
+            "animator": "skin",
+            "set": "pikachu",
+            "trigger": "skin_04",
+            "price": 300
+        },
+        {
+            "id": 10,
+            "sprite": "GUI/bodov_icon_skin05",
+            "animator": "skin",
+            "set": "barbie",
+            "trigger": "skin_05",
+            "price": 400
+        }
+    ]
+}
